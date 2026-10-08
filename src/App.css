@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@base {
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+}
+
+.title {
+  color: aqua;
+  font-size: 50px;
+  border: 1px solid black;
+}
